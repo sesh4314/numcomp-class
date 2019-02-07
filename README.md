@@ -6,6 +6,9 @@ CU Boulder: CSCI 3656 (Spring 2019)
 
 Meeting Time: Tue/Thu 12:30-1:45pm in FLMG 157
 
+Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
+[this issue](https://github.com/cucs-numcomp/numcomp-class/issues/6) for exceptions.
+
 ## Activies
 
 1. [First day](https://classroom.github.com/a/PIP8dA0_)
@@ -13,6 +16,9 @@ Meeting Time: Tue/Thu 12:30-1:45pm in FLMG 157
 3. [2019-01-22 Newton's Method](https://classroom.github.com/a/hopJs3W_)
 4. 2019-01-24: Assign [Homework 1: Rootfinding](https://classroom.github.com/a/pPHCK3pM)
 5. [2019-01-29 Conditioning](https://classroom.github.com/a/CfIQcLAR)
+6. [2019-01-31 Stability](https://classroom.github.com/a/_VOHn7fa)
+7. [2019-02-05 Linearity](https://classroom.github.com/a/Wwm_c2n0)
+8. 2019-02-07: Assign [Homework 2: Orthogonal Polynomials](https://classroom.github.com/a/Ywmjt3ND)
 
 ## Git and Jupyter
 
